@@ -6,21 +6,14 @@ public class HelloWorld
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
-        Console.WriteLine("Enter first Number");
-        int a = int.Parse(Console.ReadLine());
-        Console.WriteLine("Enter second Number");
-        int b = int.Parse(Console.ReadLine());
-        Console.WriteLine(a);
+        //Second Obj = new Second();
+        //Obj.Method();
 
-        if (a > b)
-            Console.WriteLine("a is greater than b");
-        else if (b > a)
-            Console.WriteLine("b is greater than a");
-        else
-            Console.WriteLine("a is equal to b");
+        //Third Obj3 = new Third();
+        //Obj3.Months();
 
-        Second Obj = new Second();
-        Obj.Method(); 
+        //Forth Obj4 = new Forth();
+        //0Obj4.Numbers();
+         
     }
 }
