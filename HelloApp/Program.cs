@@ -12,8 +12,8 @@ public class HelloWorld
         //Third Obj3 = new Third();
         //Obj3.Months();
 
-        //Forth Obj4 = new Forth();
-        //0Obj4.Numbers();
+        Forth Obj4 = new Forth();
+        Obj4.Numbers();
          
     }
 }
